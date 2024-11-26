@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VIIHPINHEIRO.github.io/site-funcinario-/static/css/main.4bd0f2b1.css",
+    "main.js": "/VIIHPINHEIRO.github.io/site-funcinario-/static/js/main.9b58c562.js",
+    "static/js/453.987e3cb1.chunk.js": "/VIIHPINHEIRO.github.io/site-funcinario-/static/js/453.987e3cb1.chunk.js",
+    "index.html": "/VIIHPINHEIRO.github.io/site-funcinario-/index.html",
+    "main.4bd0f2b1.css.map": "/VIIHPINHEIRO.github.io/site-funcinario-/static/css/main.4bd0f2b1.css.map",
+    "main.9b58c562.js.map": "/VIIHPINHEIRO.github.io/site-funcinario-/static/js/main.9b58c562.js.map",
+    "453.987e3cb1.chunk.js.map": "/VIIHPINHEIRO.github.io/site-funcinario-/static/js/453.987e3cb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bd0f2b1.css",
+    "static/js/main.9b58c562.js"
+  ]
+}
